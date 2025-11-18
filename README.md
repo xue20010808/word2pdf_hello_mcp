@@ -1,5 +1,7 @@
 # word2pdf
 
+[![smithery badge](https://smithery.ai/badge/@xue20010808/word2pdf_hello_mcp1)](https://smithery.ai/server/@xue20010808/word2pdf_hello_mcp1)
+
 An MCP server built with [Smithery CLI](https://smithery.ai/docs/getting_started/quickstart_build_python)
 
 ## Prerequisites
